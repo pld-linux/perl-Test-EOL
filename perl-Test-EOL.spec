@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	EOL
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::EOL - Check the correct line endings in your project
 Name:		perl-Test-EOL
 Version:	1.5
